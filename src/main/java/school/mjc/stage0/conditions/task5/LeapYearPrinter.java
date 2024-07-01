@@ -1,7 +1,5 @@
 package school.mjc.stage0.conditions.task5;
 
-import javax.swing.plaf.synth.SynthOptionPaneUI;
-
 public class LeapYearPrinter {
     public void isLeapYear(int year) {
         switch (year) {
